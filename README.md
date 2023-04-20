@@ -13,3 +13,5 @@ You can test Raven: https://huggingface.co/spaces/BlinkDL/Raven-RWKV-7B and find
 ## Logic
 
 ## Word Puzzle
+
+* return back this sentence with all letters capitalized: hello there how are you
